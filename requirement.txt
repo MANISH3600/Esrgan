@@ -1,0 +1,4 @@
+opencv-python-headless
+basicsr
+numpy
+torch>=1.7
